@@ -1,0 +1,1 @@
+Micro86 is an 8086 Emulator and Lexer, Parser, Assembler and Compiler for a tiny C-like language. This started as a project for my Programming Languages class.
